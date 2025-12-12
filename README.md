@@ -46,7 +46,7 @@ I’m passionate about **  AI/ML , Data analysis , embedded systems,IoT**, and b
   <img src="https://img.shields.io/badge/Snipping%20Tool-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D" />
+  <img src="https://Arduino%20IDE-00979D" />
 </p>
 
 --
