@@ -46,7 +46,8 @@ I’m passionate about **  AI/ML , Data analysis , embedded systems,IoT**, and b
   <img src="https://img.shields.io/badge/Snipping%20Tool-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.programmingelectronics.com%2Farduino-ides%2F&ved=0CBUQjRxqFwoTCOiDxP-qt5EDFQAAAAAdAAAAABAI&opi=89978449"
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
 </p>
 
 --
