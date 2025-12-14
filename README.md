@@ -49,5 +49,7 @@ I’m passionate about **  AI/ML , Data analysis , embedded systems,IoT**, and b
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </p>
+### Connect with me 
+- 📧 Email: aneeshatiwari111@gmail.com
 
 
