@@ -8,6 +8,7 @@ I’m passionate about **  AI/ML , Data analysis , embedded systems,IoT**, and b
 ---
 
 ##  About me,
+- I'm a 4th year student of B.Tech at Indian educational institution
 - 💡 Enthusiast in **Artificial Intelligence & Machine Learning**  
 - 🔧 Builder of **IoT and Embedded Systems** using microcontrollers & sensors 
 
