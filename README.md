@@ -50,6 +50,6 @@ I’m passionate about **  AI/ML , Data analysis , embedded systems,IoT**, and b
 
 </p>
 ### Connect with me 
-- 📧 Email: aneeshatiwari111@gmail.com
+- 📧 Email
 
 
